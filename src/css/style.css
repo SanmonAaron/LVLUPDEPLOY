@@ -1,0 +1,60 @@
+form{
+    background-image: url(../images/marco.jpg);
+    background-size: 1000px;
+    border-radius: 20%;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#personajes{
+    border-radius: 20%;
+    background-image: url(../images/imgPersonajes.jpg);
+    background-size: 900px;
+}
+nav{
+    background-image: url(../images/imgNav.jpg);
+}
+
+#columna-r{
+    background-image: url(../images/ranking.jpg);
+    background-size: 550px;
+    background-position: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    border-radius: 10%;
+}
+#columna-mp{
+    background-image: url(../images/misPersonajes.jpg);
+    background-position: center;
+    background-size: 550px;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    border-radius: 10%;
+}
+#columna-cp{
+    background-image: url(../images/crearPersonaje.jpg);
+    background-position: center;
+    background-size: 550px;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    border-radius: 10%;
+}
+#container-index{
+    margin-top: 8%;
+}
+.mask{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.mask2{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.mask div div h4{
+    font-style: italic;
+}
+#objetivos{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+#objetivos2{
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 30%;
+}
+
